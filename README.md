@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="1790613240154.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="1790613240154.jpg">
+  <img alt="Description of your banner" src="path-to-your-DEFAULT-banner.png" width="100%">
+</picture>
+
 <h1 align="center">Hi 👋, I'm Rasheduzzaman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
